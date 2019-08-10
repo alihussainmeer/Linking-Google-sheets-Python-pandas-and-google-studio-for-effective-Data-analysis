@@ -8,10 +8,15 @@ https://www.youtube.com/watch?v=7I2s81TsCnc&amp;t=28s
 until the ".json" file is downloaded
 
 After it is downloaded we have to install various packages the commands for them are given below:
+
 !pip install gspread
+
 !pip install oauth2client
+
 !pip install PyOpenSSL
+
 !pip install gspread_dataframe
+
 
 You are supposed to provide the path of the json file where it is mentioned in the program
 After that we have to write the name of the sheet where it is mentioned in the program.
